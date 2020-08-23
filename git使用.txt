@@ -1,0 +1,13 @@
+1.创建本地仓库
+git init
+2. 创建远程仓库，获取ssh
+3.关联
+git remote add origin https://xxx.git
+4.新建文件
+5.执行添加提交
+git add xxx.txt
+git commit -m '说明'
+6.推向远程
+git push -u origin master
+
+git push origin master
